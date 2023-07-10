@@ -1,0 +1,10 @@
+#srch{
+    border-radius: 50px;
+    
+}
+@media (min-width: 992px){
+    .navbar li {
+        margin-left : 2em;
+        
+    }
+}
